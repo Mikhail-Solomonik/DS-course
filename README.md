@@ -1,8 +1,8 @@
 # DS course
-Данный репозиторий содержит достаточно простой код для курса по науке о данных от ВШЭ.
+This repository contains the code for the HSE data science course.
 ## hw 1
-Небольшие задачи на pandas, numpy и парсинг
+Small tasks on pandas, numpy and parsing
 ## hw 2
-Также несколько задач на визуализацию, владение библиотеками и теорию вероятностей с математической статистикой
+Also several tasks on visualization, library skills and probability theory with mathematical statistics
 ## Bonus hw
-Небольшой анализ и сравнение процедур гос. закупок на рынке мебели в РФ
+A small analysis and comparison of public procurement procedures in the furniture market in the Russian Federation
